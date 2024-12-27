@@ -1,0 +1,9 @@
+opencv-python
+pillow
+pytesseract
+requests
+fastapi
+uvicorn
+python-dotenv
+requests
+pyspellchecker
